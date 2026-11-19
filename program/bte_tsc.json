@@ -1,0 +1,14 @@
+[
+{"btetsc":{"timeSlotCode":"T0910","timeSlot":"9:00 AM - 10:00 AM"}},
+{"btetsc":{"timeSlotCode":"T1011","timeSlot":"10:00 AM - 11:00 AM"}},
+{"btetsc":{"timeSlotCode":"T1112","timeSlot":"11:00 AM - 12:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1201","timeSlot":"12:00 PM - 1:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1314","timeSlot":"1:00 PM - 2:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1415","timeSlot":"2:00 PM - 3:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1516","timeSlot":"3:00 PM - 4:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1617","timeSlot":"4:00 PM - 5:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1718","timeSlot":"5:00 PM - 6:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1819","timeSlot":"6:00 PM - 7:00 PM"}},
+{"btetsc":{"timeSlotCode":"T1920","timeSlot":"7:00 PM - 8:00 PM"}},
+{"btetsc":{"timeSlotCode":"T2021","timeSlot":"8:00 PM - 9:00 PM"}}
+]

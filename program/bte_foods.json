@@ -1,0 +1,10 @@
+[{"food":{"foodID":"FD001","foodName":"Mushroom Pizza","foodPrice":"7000"}},
+{"food":{"foodID":"FD002","foodName":"Sea Foods Pizza","foodPrice":"15000"}},
+{"food":{"foodID":"FD003","foodName":"Chicken Pizza","foodPrice":"10000"}},
+{"food":{"foodID":"FD004","foodName":"Cheese Burger","foodPrice":"5000"}},
+{"food":{"foodID":"FD005","foodName":"Ham Burger","foodPrice":"8500"}},
+{"food":{"foodID":"FD006","foodName":"Chicken Burger","foodPrice":"8000"}},
+{"food":{"foodID":"FD007","foodName":"French Fries","foodPrice":"3500"}},
+{"food":{"foodID":"FD008","foodName":"Fried Chicken Wing","foodPrice":"7800"}},
+{"food":{"foodID":"FD009","foodName":"Fried Chicken with Honey","foodPrice":"9500"}},
+{"food":{"foodID":"FD010","foodName":"Chicken Barbecue","foodPrice":"10000"}}]
